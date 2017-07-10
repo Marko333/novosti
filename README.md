@@ -1,0 +1,2 @@
+# novosti
+Blog post, kolumna
